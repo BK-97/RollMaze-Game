@@ -1,6 +1,7 @@
 # RollMaze-Game
 
-A basic ball round in a maze game. 
+Ball rolling game in maze. 
+
 
 Rules:
 
