@@ -1,5 +1,18 @@
 # RollMaze-Game
 
+A basic ball round in a maze game. 
+
+Rules:
+
+You have to collect to crystals.
+
+-In level 1, you have to collect 3 of 5 crystals.
+
+-In level 2, you have to collect 6 of 10 crystals.
+
+-If the ball hits the walls, your score is reduced by 1 point.
+
+
 ## Menu Scene
 
 ![rm1](https://user-images.githubusercontent.com/59361739/102018148-6da98f80-3d7c-11eb-92d5-23553673c06d.png)
